@@ -4,7 +4,6 @@
     "keywords": ["PHP","Excel","OpenXML","spreadsheet"],
     "homepage": "http://phpexcel.codeplex.com",
     "type": "library",
-    "license": "LGPL",
     "authors": [
         {
             "name": "Maarten Balliauw",
