@@ -1,5 +1,5 @@
 {
-    "name": "CodePlex/PHPExcel",
+    "name": "paysera/fork-codeplex-phpexcel",
     "description": "PHPExcel - OpenXML - Create Excel2007 documents in PHP - Spreadsheet engine",
     "keywords": ["PHP","Excel","OpenXML","spreadsheet"],
     "homepage": "http://phpexcel.codeplex.com",
